@@ -1,0 +1,6 @@
+{
+  "name": "Periodic Table Interactive — ตารางธาตุแบบ Interactive",
+  "description": "ตารางธาตุแบบอินเตอร์แอคทีฟครบ 118 ธาตุ พร้อมข้อมูลภาษาไทย-อังกฤษ เลขอะตอม มวลอะตอม การจัดเรียงอิเล็กตรอน ประโยชน์การใช้งาน ระบบค้นหา ตัวกรอง และโหมดทดสอบความรู้",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
